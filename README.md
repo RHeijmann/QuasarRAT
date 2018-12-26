@@ -56,15 +56,6 @@ Open the project in Visual Studio 2017+ and [restore the NuGET packages](https:/
 | Debug configuration         | Testing        | The pre-defined [Settings.cs](/Quasar.Client/Config/Settings.cs) will be used, so edit this file before compiling the client. You can execute the client directly with the specified settings.
 | Release configuration       | Live use       | Start `Quasar.exe` and use the client builder.
 
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-## Roadmap
-See [ROADMAP.md](ROADMAP.md)
-
 ## License
 Quasar is distributed under the MIT License.  
 Third-party licenses are located [here](Licenses).
-
-## Thank you!
-I really appreciate all kinds of feedback and contributions. Thanks for using and supporting Quasar!
