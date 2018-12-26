@@ -1,9 +1,13 @@
-# Quasar
-
-[![Build status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)](https://ci.appveyor.com/project/MaxXor/quasarrat)
-[![Downloads](https://img.shields.io/github/downloads/quasar/QuasarRAT/total.svg)](https://github.com/quasar/QuasarRAT/releases)
-[![License](https://img.shields.io/github/license/quasar/QuasarRAT.svg)](LICENSE)
-
+# QuasarRAT, Modified by Rik Heijmann for educational purposes.
+Currently there are no differences since this project has been forked of the project (quasar/QuasarRAT) on 26-12-2018.
+Planned changes:
+- Better explainations for each line of code.
+- Transition from the Windows Forms framework (https://docs.microsoft.com/en-us/dotnet/framework/winforms/) to the Xamarin framework (https://visualstudio.microsoft.com/xamarin/):
+    - This allows the possibility for the "Server"-application to be ran on mobile (Android and iOS) devices and on Mac OS.
+    - This allow us to theme QuasarRAT for a more professional look.
+    
+Please note: Time is on my side, I'm not obliged to add functions or to give a release date.
+    
 **Free, Open-Source Remote Administration Tool for Windows**
 
 Quasar is a fast and light-weight remote administration tool coded in C#. The usage ranges from user support through day-to-day administrative work to employee monitoring. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
